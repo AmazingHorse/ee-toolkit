@@ -50,6 +50,4 @@ main.js.map
 
 .idea
 npm-debug.log.*
-
-# PCB toolkit
-/PCB_Toolkit_V7/
+__snapshots__
