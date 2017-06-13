@@ -6,6 +6,7 @@
   "author": "Bill Heughan <billheughan@gmail.com>",
   "copyright": "© 2017, Bill Heughan",
   "homepage": "http://github.com/AmazingHorse/ee-toolkit",
+  "repository":"http://github.com/AmazingHorse/ee-toolkit",
   "license": "MIT",
   "main": "app/background.js",
   "build": {
@@ -46,7 +47,7 @@
     "istanbul": "^0.4.5",
     "minimist": "^1.2.0",
     "mocha": "^3.2.0",
-    "rollup": "^0.41.4",
+    "rollup": "^0.43.0",
     "rollup-plugin-istanbul": "^1.1.0",
     "source-map-support": "^0.4.11",
     "spectron": "^3.6.0"
